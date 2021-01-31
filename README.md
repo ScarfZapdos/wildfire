@@ -19,3 +19,5 @@ La simulation fonctionne par ticks d'horloge. A chaque tick, la grille se met en
 * Chaque arbre a une très faible probabilité d'être frappé par un éclair et donc de prendre feu.
 
 Les arbres brûlent pendant une durée de 1 tick.
+
+![Screen North Wind](https://github.com/ScarfZapdos/wildfire/blob/main/wildfirescreen.PNG)
